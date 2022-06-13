@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+    font-family: serif;
+    color:black;
+}
+h1{
+    color:brown;
+}
+p.first{color: blue;}
+p.second{color:aqua;}
